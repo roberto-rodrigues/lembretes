@@ -1,3 +1,5 @@
-Mercado: suco
-Farmácia: Torsilax
-Loja de elétrica: pilha
+Mercado: papel alumínio
+Mercado: mostarda
+Mercado: detergente
+Mercado: pão
+Mercado: coca zero
