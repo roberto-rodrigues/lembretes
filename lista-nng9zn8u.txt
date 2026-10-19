@@ -1,4 +1,3 @@
-Antes de sair de casa:
-- Mercado: suco
-- Farmácia: Torsilax
-- Loja de elétrica: pilha
+Mercado: suco
+Farmácia: Torsilax
+Loja de elétrica: pilha
